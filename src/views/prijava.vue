@@ -60,6 +60,7 @@
         </div>
       </form>
     </div>
+    <p style="color:red;font-size:3.5vw;">Admin:admin@admin.com<br/>Password:admin1<br/>Normalni korisnik se registrira sam</p>
   </div>
 </template>
 <script>
